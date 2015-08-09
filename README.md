@@ -15,4 +15,4 @@ exfp3 dataX.pack key.fkey 15
 ```
 packer.py <INPUTDIR> <output.pack>
 ```
-
+[!] This script is supported by python2
