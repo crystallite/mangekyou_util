@@ -1,4 +1,4 @@
-# ”ü­—–œ‰Ø‹¾ utils
+ï»¿# ç¾å°‘å¥³ä¸‡è¯é¡ utils
 omega star game engine tools.  
 
 This is a collection of 3rd party tools, all grats goes to its authors.
@@ -8,7 +8,7 @@ This is a collection of 3rd party tools, all grats goes to its authors.
 ```
 exfp3 dataX.pack key.fkey 15
 ```  
-[!] key.fkey is in the game directory: \”ü­—–œ‰Ø‹¾|‚P|\DLL\key.fkey  
+[!] key.fkey is in the game directory: \ç¾å°‘å¥³ä¸‡è¯é¡ï¼ï¼‘ï¼\DLL\key.fkey  
 [!] Files are extracted to the current dir  
   
 ##### To build .pack: 
