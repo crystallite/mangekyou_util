@@ -1,5 +1,5 @@
 ﻿# 美少女万華鏡 utils
-omega star game engine tools.  
+QLIE game engine tools. Used by omega star for the series.  
 
 This is a collection of 3rd party tools, all grats goes to its authors.
 
