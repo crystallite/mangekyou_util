@@ -23,3 +23,10 @@ splt.py <file.s>
 ```
 [!] The script produces 2 files: file.txt and file.splt, which are used later to combine evrything back to the format, readable by the engine.  
 [!] python2
+
+##### To join previously splitted script: 
+```
+join.py <codefile.splt> <translated.txt> <file.s>
+```
+[!] translated.txt should be utf16/utf16_be/utf8/shiftjis textfile.  
+[!] python2  
